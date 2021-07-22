@@ -35,6 +35,7 @@ public class ContactManagerPanel extends JFrame{
 		createContactsToSort();
 		createCheckBoxes();
 	//	createCheckBox1();
+		//test
 	
 	}
 	
